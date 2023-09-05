@@ -9,9 +9,9 @@ In the ever-evolving realm of web development, Front-End Developers stand as the
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shyamkathir007@gmail.com](mailto:shyamkathir007@gmail.com)
 * 🚀  I'm currently working on [Back-end Development](http://github.com/SHYAM-001/Auction-Page.git)
-* 🧠  I'm learning Flutter
+* 🧠  I'm currently learning Flutter
 * 🤝  I'm open to collaborating on Full stack projects
-* ⚡  I am Iron man, don't tell anyone
+* ⚡  I'm Iron man, don't tell anyone
 
 <a href="https://www.github.com/SHYAM-001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SHYAM-001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
