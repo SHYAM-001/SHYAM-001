@@ -31,8 +31,9 @@ src="https://img.shields.io/github/followers/SHYAM-001?logo=github&style=for-the
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SHYAM-001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/SHYAM-001/Auction-Page" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAM-001&repo=Auction-Page&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
